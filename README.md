@@ -1,5 +1,5 @@
 
-![Hello I am Toka](./banner.svg)
+![Hello I am Toka](./banners.svg)
 
 💻 About Me
 
