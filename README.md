@@ -1,5 +1,5 @@
 ```markdown
-![Hello I am Toka](`./hello-toka.svg`)
+![Hello I am Toka](./banner.svg)
 
 💻 About Me
 
