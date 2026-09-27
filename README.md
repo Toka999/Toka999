@@ -1,4 +1,4 @@
-```markdown
+
 ![Hello I am Toka](./banner.svg)
 
 💻 About Me
