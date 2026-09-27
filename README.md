@@ -11,7 +11,7 @@ I'm a Full-Stack MERN Developer passionate about building scalable web applicati
 
 Certifications: AWS Certified Practitioner | Currently studying for the AWS Certified Developer – Associate exam.
 
-Languages: Code with JavaScript, TypeScript, Python, and C++.
+Languages: Code with JavaScript, HTML, CSS, TypeScript, Python, and C++.
 
 Core Stack: React, Node.js, Express, MongoDB, AWS, Docker.
 
