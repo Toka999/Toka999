@@ -5,6 +5,7 @@ I'm a **Full-Stack MERN Developer** passionate about building scalable web appli
 - 💻 Code with **JavaScript, TypeScript, Python, and C++**.
 - 🛠️ Core Stack: **React, Node.js, Express, MongoDB, AWS, Docker**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tokamamdouh/) or [Gmail](mailto:tokaibrahim1999@gmail.com)
+  ### The SVG Code (`header.svg`):
  ```xml
  <svg viewBox="0 0 800 200" width="100%" height="100%">
   <defs>
