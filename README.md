@@ -1,4 +1,4 @@
-![Header](header.jpg)
+![Header](headers.jpg)
 I'm a **Full-Stack MERN Developer** passionate about building scalable web applications and cloud architectures. 
 
 - ☁️ **AWS Certified Practitioner** | Currently studying for the **AWS Certified Developer – Associate** exam.
