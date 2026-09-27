@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Hello, I am Toka</title>
+  <desc id="description">The words Hello, I am Toka in luxurious gold calligraphy with elegant ornamental flourishes.</desc>
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Great Vibes Embedded";
+        src: url("data:font/woff2;base64,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") format("woff2");
+        font-style: normal;
+        font-weight: 400;
+      }
+      .calligraphy {
+        font-family: "Great Vibes Embedded", "Snell Roundhand", "Segoe Script", cursive;
+      }
+    </style>
+    <linearGradient id="gold" x1="0" y1="0" x2="0.95" y2="1">
+      <stop offset="0" stop-color="#7a4b08"/>
+      <stop offset="0.24" stop-color="#d3a32b"/>
+      <stop offset="0.47" stop-color="#fff0a6"/>
+      <stop offset="0.66" stop-color="#d8a82f"/>
+      <stop offset="1" stop-color="#80500b"/>
+    </linearGradient>
+    <linearGradient id="fine-gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9b6715" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#e9c55a"/>
+      <stop offset="0.5" stop-color="#fff1aa"/>
+      <stop offset="0.7" stop-color="#e9c55a"/>
+      <stop offset="1" stop-color="#9b6715" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft-shadow" x="-10%" y="-25%" width="120%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2.2" result="blur"/>
+      <feOffset dy="2" result="offset"/>
+      <feFlood flood-color="#3b2205" flood-opacity="0.35"/>
+      <feComposite in2="offset" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g fill="none" stroke="url(#fine-gold)" stroke-linecap="round">
+    <path d="M74 150 C137 150 147 118 196 118 C222 118 236 132 220 145 C203 159 174 146 185 130" stroke-width="2"/>
+    <path d="M74 156 C128 156 153 174 210 174 C235 174 249 165 258 154" stroke-width="1" opacity="0.7"/>
+    <path d="M1126 150 C1063 150 1053 118 1004 118 C978 118 964 132 980 145 C997 159 1026 146 1015 130" stroke-width="2"/>
+    <path d="M1126 156 C1072 156 1047 174 990 174 C965 174 951 165 942 154" stroke-width="1" opacity="0.7"/>
+  </g>
+
+  <g fill="url(#gold)">
+    <path d="M61 153 l9 -3 3 -9 3 9 9 3 -9 3 -3 9 -3 -9z"/>
+    <path d="M1139 153 l-9 -3 -3 -9 -3 9 -9 3 9 3 3 9 3 -9z"/>
+    <circle cx="94" cy="153" r="2.5"/>
+    <circle cx="1106" cy="153" r="2.5"/>
+  </g>
+
+  <text class="calligraphy" x="600" y="184" text-anchor="middle" font-size="112" fill="url(#gold)" stroke="#704609" stroke-width="0.8" paint-order="stroke fill" filter="url(#soft-shadow)">Hello, I am Toka</text>
+
+  <path d="M402 224 C478 244 532 218 600 225 C668 232 723 245 798 218 C741 258 664 239 600 235 C535 231 469 254 402 224 Z" fill="url(#fine-gold)" opacity="0.9"/>
+  <path d="M522 238 C552 249 578 250 600 240 C622 250 648 249 678 238 C650 257 621 258 600 248 C579 258 550 257 522 238 Z" fill="#c99525" opacity="0.65"/>
+</svg>
