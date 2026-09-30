@@ -2,7 +2,6 @@
 
 ![Hello I am Toka](./banners.svg)
 
-# Hi 👋, I'm Toka Mamdouh
 
 **Full-Stack MERN Developer | Cloud & AWS Enthusiast**
 
@@ -47,15 +46,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## GitHub Stats
+### Tools & Concepts
 
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
-
-</div>
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-338?style=flat&logo=letsencrypt&logoColor=white)
+![Joi](https://img.shields.io/badge/Joi-0080FF?style=flat&logo=joi&logoColor=white)
 
 ## Connect with Me
 
