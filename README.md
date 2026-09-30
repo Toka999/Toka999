@@ -7,7 +7,7 @@
 **Full-Stack MERN Developer | Cloud & AWS Enthusiast**
 
 ![Full-Stack Development](https://img.shields.io/badge/FULL--STACK%20DEVELOPMENT-0077B5?style=for-the-badge)
-![Cloud Developer](https://img.shields.io/badge/Cloud%20Developer-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Cloud Developer](https://img.shields.io/badge/CLOUD%20DEVELOPER-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 [![AWS Certified](https://img.shields.io/badge/AWS%20CERTIFIED%20PRACTITIONER-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/51df8b38-a1d8-47d8-b74b-1bd600e0ebb2/linked_in_profile)
 
 </div>
