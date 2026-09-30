@@ -2,7 +2,7 @@
 
 ![Hello I am Toka](./banners.svg)
 
-# Hi 👋, I'm Toka Mamdouh
+
 
 **Full-Stack MERN Developer | Cloud & AWS Enthusiast**
 
