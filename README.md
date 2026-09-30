@@ -63,6 +63,6 @@
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokaibrahim1999@gmail.com)
 
 <!-- Replace YOUR_CV_LINK with the link to your CV (Google Drive, PDF in this repo, etc.) -->
-[![View My CV](https://img.shields.io/badge/📄%20VIEW%20MY%20CV-222222?style=for-the-badge)]([YOUR_CV_LINK](https://drive.google.com/file/d/1bu_NLwkGAEvPaP4sktfDDRFANpcS-D9t/view?usp=sharing))
+[![View My CV](https://img.shields.io/badge/📄%20VIEW%20MY%20CV-222222?style=for-the-badge)](https://drive.google.com/file/d/1bu_NLwkGAEvPaP4sktfDDRFANpcS-D9t/view?usp=sharing)
 
 </div>
