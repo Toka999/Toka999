@@ -2,6 +2,7 @@
 
 ![Hello I am Toka](./banners.svg)
 
+# Hi 👋, I'm Toka Mamdouh
 
 **Full-Stack MERN Developer | Cloud & AWS Enthusiast**
 
@@ -58,5 +59,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tokamamdouh/)
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokaibrahim1999@gmail.com)
+
+<!-- Replace YOUR_CV_LINK with the link to your CV (Google Drive, PDF in this repo, etc.) -->
+[![View My CV](https://img.shields.io/badge/📄%20VIEW%20MY%20CV-222222?style=for-the-badge)](./FullStack-Toka_Mamdouh_Mustafa_CV)
 
 </div>
