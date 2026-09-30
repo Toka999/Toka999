@@ -52,6 +52,8 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-338?style=flat&logo=letsencrypt&logoColor=white)
 ![Joi](https://img.shields.io/badge/Joi-0080FF?style=flat&logo=joi&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-005571?style=flat&logo=shield&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 
 ## Connect with Me
 
@@ -61,6 +63,6 @@
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokaibrahim1999@gmail.com)
 
 <!-- Replace YOUR_CV_LINK with the link to your CV (Google Drive, PDF in this repo, etc.) -->
-[![View My CV](https://img.shields.io/badge/📄%20VIEW%20MY%20CV-222222?style=for-the-badge)](./FullStack-Toka_Mamdouh_Mustafa_CV)
+[![View My CV](https://img.shields.io/badge/📄%20VIEW%20MY%20CV-222222?style=for-the-badge)]([YOUR_CV_LINK](https://drive.google.com/file/d/1bu_NLwkGAEvPaP4sktfDDRFANpcS-D9t/view?usp=sharing))
 
 </div>
